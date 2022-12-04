@@ -1,0 +1,7 @@
+@echo off
+
+:TEXTURES
+set wl= #
+set dr= .
+set en= @
+set tr= +
